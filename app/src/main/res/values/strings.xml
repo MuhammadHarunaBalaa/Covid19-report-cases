@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">(RSCC)</string>
+    <string name="report">REPORT SUSPECTED CASE ?</string>
+    <string name="news">COVID 19 NEWS</string>
+    <string name="care">prevent your self </string>
+    <string name="reportername">reporter name</string>
+    <string name="patientnmae">patient name</string>
+    <string name="homeaddrs">home address </string>
+    <string name="phonenum">Phone Number</string>
+    <string name="city">City</string>
+    <string name="LocalGovernment">Local government</string>
+    <string name="state">State</string>
+    <string name="btnsbmt">Submit</string>
+    <string name="comment">comment</string>
+</resources>
